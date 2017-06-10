@@ -51,6 +51,35 @@ public class ProyectoDePrueba {
         System.out.println("Cambios por el maestro2");
         System.out.println("Cambios por el maestro3");
         System.out.println("Cambios por el maestro3");
+        
+        
+        
+        
+        
+        
+        
+        System.out.println("prueba de yelc556");
+        
+        
+        
+        
+        System.out.println("prueba de yelc556");
+        
+        
+        
+        
+        System.out.println("prueba de yelc556");
+        
+        
+        
+        
+        System.out.println("prueba de yelc556");
+        System.out.println("Cambios por el maestro2");
+        System.out.println("Cambios por el maestro2");
+        System.out.println("Cambios por el maestro2");
+        
+        
+        
     }
     
 }
