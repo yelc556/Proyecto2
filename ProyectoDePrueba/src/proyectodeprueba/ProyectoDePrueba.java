@@ -21,6 +21,15 @@ public class ProyectoDePrueba {
         System.out.println("hola yonathan lopez ");
         System.out.println("hola yonathan lopez ");
         System.out.println("hola yonathan lopez ");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
+        System.out.println("yelc lopez");
 
     }
     
