@@ -49,6 +49,8 @@ public class ProyectoDePrueba {
         System.out.println("Cambios por el maestro");
         System.out.println("Cambios por el maestro");
         System.out.println("Cambios por el maestro2");
+        System.out.println("Cambios por el maestro3");
+        System.out.println("Cambios por el maestro3");
     }
     
 }
